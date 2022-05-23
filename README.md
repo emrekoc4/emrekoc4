@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre Koç</h1>
 <h3 align="center">A passionate Jr Full-Stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [DreamProcessingIK](https://github.com/BoostTeam1/DreamProcessingIK)
-
 - 🌱 I’m currently learning **Javascript, Jquery, c#**
 
 - 📫 How to reach me **emrekoc.dev@gmail.com**
